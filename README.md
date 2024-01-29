@@ -100,10 +100,11 @@
 - [피해야 하는 중소기업 거르는 꿀팁](http://principlesofknowledge.kr/archives/31414)
 
 
-###### 참고 링크
-[주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler/tree/master)
 
 ### 추천 도서
 
 - [프로그래밍 면접 이렇게 준비한다](https://book.naver.com/bookdb/book_detail.nhn?bid=15064639)
 
+
+###### 참고 링크
+[주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler/tree/master)
